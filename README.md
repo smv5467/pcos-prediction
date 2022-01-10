@@ -1,9 +1,7 @@
 # PCOS Prediction 🥼
 Predicts the likelihood of Polycystic Ovary Syndrome based on patient attributes and symptoms using Logistic Regression.  
 
-![image](https://user-images.githubusercontent.com/78241340/148820557-059fb761-d8ca-48e1-8426-c1dc287d2413.png)
-
-<img src="https://user-images.githubusercontent.com/78241340/148718462-7a01bc16-4c2c-4f4c-ac99-b5c71d96bc5b.png" width="250">
+<img src="https://user-images.githubusercontent.com/78241340/148820557-059fb761-d8ca-48e1-8426-c1dc287d2413.png" width="250">
 
 # Setup
 ### Clone the Repository 
