@@ -8,6 +8,7 @@ Predicts the likelihood of Polycystic Ovary Syndrome based on patient attributes
 `git clone https://github.com/smv5467/pcos-prediction`
 
 ### Add Dependencies with Poetry 
+#### If you don't have poetry install with:
 `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -`  
 
 `poetry install `  
