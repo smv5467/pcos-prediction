@@ -30,3 +30,5 @@ Open excel file and save as a .csv file
 ### Run program
 `poetry run python pcos_predictor.py`
 
+# See full python code here
+👉 https://github.com/smv5467/pcos-prediction/blob/main/pcos_prediction.py
