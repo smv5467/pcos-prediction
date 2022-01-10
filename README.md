@@ -10,25 +10,13 @@ Predicts the likelihood of Polycystic Ovary Syndrome based on patient attributes
 ### Add Dependencies with Poetry 
 `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -`  
 
-`poetry init`  
-
 `install poetry `  
-
-
-### Add Python Libraries 
-`poetry add pandas`  
-
-`poetry add numpy`  
-
-`poetry add sklearn`  
 
 ### Download Data
 Retrieve data from Kaggle: https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos  
 Download PCOS_data_without_infertility.xlsx  
-Open excel file and save as a .csv file
+Open excel file and save as a CSV file under the same name
 
 ### Run program
 `poetry run python pcos_predictor.py`
 
-# See full python code here
-👉 https://github.com/smv5467/pcos-prediction/blob/main/pcos_prediction.py
