@@ -1,5 +1,5 @@
 # PCOS Prediction 🥼
-Predicts the likelihood of Polycystic Ovary Syndrome based on given patient attributes and symptoms.  
+Predicts the likelihood of Polycystic Ovary Syndrome based on given patient attributes and symptoms using Logistic Regression.  
 
 <img src="https://user-images.githubusercontent.com/78241340/148718462-7a01bc16-4c2c-4f4c-ac99-b5c71d96bc5b.png" width="250">
 
@@ -16,8 +16,17 @@ Predicts the likelihood of Polycystic Ovary Syndrome based on given patient attr
 
 
 ### Add Python Libraries 
-`poetry add pandas`
-`poetry add numpy`
-`poetry add sklearn`
+`poetry add pandas`  
 
+`poetry add numpy`  
+
+`poetry add sklearn`  
+
+### Download Data
+Retrieve data from Kaggle: https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos  
+Download PCOS_data_without_infertility.xlsx  
+Open excel file and save as a .csv file
+
+### Run program
+`poetry run python pcos_predictor.py`
 
