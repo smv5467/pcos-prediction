@@ -10,7 +10,7 @@ Predicts the likelihood of Polycystic Ovary Syndrome based on patient attributes
 ### Add Dependencies with Poetry 
 `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -`  
 
-`install poetry `  
+`poetry install `  
 
 ### Download Data
 Retrieve data from Kaggle: https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos  
